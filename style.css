@@ -25,3 +25,16 @@ body.gumbo-page {
     font-weight: 300;
     font-size: 70px;
 }
+.pasta {
+    background-color: papayawhip;
+}
+#recipe-3 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}
+.description {
+    color: rgb(125, 16, 16);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
